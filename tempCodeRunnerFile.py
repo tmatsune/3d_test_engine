@@ -1,0 +1,1 @@
+    self.cube1.render_tri(self.display, [[10,10],[50,10],[50,30]])
